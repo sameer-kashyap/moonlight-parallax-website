@@ -33,5 +33,3 @@ The purpose of this project was to:
 - Responsive structure
 - Engaging hero section with call-to-action
 
----
-
